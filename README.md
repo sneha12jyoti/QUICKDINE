@@ -69,6 +69,8 @@ npm run preview
 ```
 
 ## 🤝 Contributing
+by K SNEHA 
+LIVE LINK - https://quickdine-madebysneha.vercel.app/
 
 We welcome contributions! Please see [CONTRIBUTING.md](./CONTRIBUTING.md) for guidelines on how to get started.
 
